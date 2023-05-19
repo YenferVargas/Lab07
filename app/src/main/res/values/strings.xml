@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora del Trica</string>
+    <string-array name="spinner_porcentaje">
+        <item>A: 30% T + 70% L</item>
+        <item>A: 70% T + 30% L</item>
+    </string-array>
+</resources>
